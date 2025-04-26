@@ -1,28 +1,29 @@
-# 👋 Hello, mình là Thạnh Phú (Puth)!
+# 👋 Hello, I'm Thanh Phu (Puth)!
 ![Puth Profile](assets/IMG_4405.JPG)
 
-## 🎯 Giới thiệu
-Xin chào! Mình là một người đam mê **Marketing** với mong muốn kết nối thương hiệu và khách hàng bằng những chiến dịch sáng tạo và hiệu quả.  
-Mình luôn tin rằng: **"Marketing không chỉ là bán hàng, mà là tạo ra giá trị thực sự."**
+## 🎯 Introduction
+Hello! I'm a passionate **Marketing** person with the desire to connect brands and customers with creative and effective campaigns.
+I always believe that: **"Marketing is not just about selling, but about creating real value."**
 
-## 🌟 Kỹ năng chuyên môn
-- 📈 Chiến lược Marketing tổng thể (Branding, Digital, Content)
-- 🎯 Quản lý chiến dịch truyền thông (Cốc Cốc Ads, Facebook Ads, Google Ads, TikTok Ads)
-- 🖋️ Sáng tạo nội dung (Content Writing, Storytelling)
-- 📊 Phân tích dữ liệu và tối ưu hiệu suất (QC Cốc Cốc, GA4, Meta Business Suite)
+## 🌟 Professional skills
+- 📈 Overall Marketing Strategy (Branding, Digital, Content)
+- 🎯 Media campaign management (Coc Coc Ads, Facebook Ads, Google Ads, TikTok Ads)
+- 🖋️ Content creation (Content Writing, Storytelling)
+- 📊 Data analysis and performance optimization (Coc Coc QC, GA4, Meta Business Suite)
 
-## 🎵 Sở thích cá nhân
-- ✈️ **Du lịch:** Khám phá những nền văn hóa và phong cách sống mới.
-- 🎤 **Ca hát:** Âm nhạc là nguồn năng lượng tích cực mỗi ngày.
-- ⚽ **Thể thao:** Đặc biệt yêu thích cầu lông và chạy bộ.
-- 
+## 🎵 Personal interests
+- ✈️ **Travel:** Explore new cultures and lifestyles.
 
-## 🚀 Mục tiêu phát triển
-- Nâng cao kỹ năng Digital Marketing chuyên sâu.
-- Mở rộng mạng lưới cộng đồng sáng tạo và khởi nghiệp.
-- Trở thành một chuyên gia Marketing tạo cảm hứng cho thế hệ trẻ.
+- 🎤 **Singing:** Music is a source of positive energy every day.
 
-## 📫 Kết nối với mình
+- ⚽ **Sports:** Especially love badminton and running.
+
+## 🚀 Development Goals
+- Improve your in-depth Digital Marketing skills.
+- Expand your network of creative and entrepreneurial communities.
+- Become a Marketing expert who inspires the younger generation.
+
+## 📫 Connect with me:
 - 📧 Email: thanhphumar@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/l%C3%AA-th%E1%BA%A1nh-ph%C3%BA-mr-ab4424a4/
 - 📷 Instagram: https://www.instagram.com/aliu_o/
