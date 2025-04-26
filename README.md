@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Thanh Phu (Puth)!
-![Puth Profile](assets/IMG_4405.JPG)
+![It's me](https://github.com/Puth8/assets/commit/2d088e2c580ab3f0a7f4eb1c287b99e32b7347f6#diff-b084792ee6e1eff2ac64ef65a1014321c6ae379ec93441df890b48ef73d4c367)
 
 ## 🎯 Introduction
 Hello! I'm a passionate **Marketing** person with the desire to connect brands and customers with creative and effective campaigns.
