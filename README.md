@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Thanh Phu (Puth)!
-![It's me](assets/Puth8)
+![It's me](assets/Puth8.JPG)
 
 Hello! I'm a passionate **Marketing** person with the desire to connect brands and customers with creative and effective campaigns.
 I always believe that: **"Marketing is not just about selling, but about creating real value."**
